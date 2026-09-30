@@ -1,0 +1,6 @@
+{
+  "name": "Data Structure Studio: Visual Learning Hub",
+  "description": "Interactive visual data structures learning platform covering Stack, Queue, Linked List, Tree, and Graph with spatial memory schematics, live execution simulators, C99 implementations, and interactive quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
